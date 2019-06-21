@@ -212,6 +212,7 @@ Yes, if you know what you are doing. However, you will probably have a
 lot of headaches to get threads and asyncio to work together. Instead,
 consider using `Quart <https://pgjones.gitlab.io/quart/>`_, an asyncio-based
 alternative to `Flask <flask.pocoo.org/>`_.
+Check out the `examples <https://raw.githubusercontent.com/LonamiWebs/Telethon/master/telethon_examples/quart_base.py>`
 
 .. _logging: https://docs.python.org/3/library/logging.html
 .. _@SpamBot: https://t.me/SpamBot
